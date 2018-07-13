@@ -1,0 +1,19 @@
+{
+  "name": "go-abbr",
+  "version": "1.0.0",
+  "description": "A text converter that generate minimal abbreviations for every word following rules, like internationalization -> i18n). ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq7886/goAbbr.git"
+  },
+  "author": "Yiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq7886/goAbbr/issues"
+  },
+  "homepage": "https://github.com/qq7886/goAbbr#readme"
+}
