@@ -1,7 +1,8 @@
-'use strict';
-module.exports = abbreviate;
-function abbreviate(string) {
-  return string.replace(/\w{4,}/g, function(word) {
-    return word[0] + (word.length - 2) + word.slice(-1);
-  });
+'use strict'
+
+const abbreviate = (string) => {
+  return string.replace(/\w{4,}/g, function (word) {
+    return word[0] + (word.length - 2) + word.slice(-1)
+  })
 }
+module.exports = abbreviate
