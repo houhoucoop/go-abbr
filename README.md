@@ -1,5 +1,5 @@
 # Go abbr
-
+[![Build Status](https://travis-ci.org/qq7886/go-abbr.svg?branch=master)](https://travis-ci.org/qq7886/go-abbr)  
 A text converter that generate minimal abbreviations for every word following rules. [DEMO](https://codepen.io/qq7886/full/deYLeY/)
 
 ## Rules
